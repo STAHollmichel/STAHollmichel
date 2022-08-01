@@ -14,7 +14,7 @@ I am very motivated in what I do and very passionate to talk about the field or 
 - 🏗  Architecture
 - 📸 Photography
 
-
+## Other Things:
 - 🔭 I’m currently working on: Portfolio
 - 🌱 I’m currently learning: Vue.Js
 - 🤔 I’m looking for help with: Vue.Js
