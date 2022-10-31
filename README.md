@@ -1,4 +1,4 @@
-<h1>👋 Hi there, I'm Santiago a Front-end Web Developer <h1>
+<h1>👋 Hi there, I'm Santiago, a Front-end Web Developer <h1>
 
 
 
