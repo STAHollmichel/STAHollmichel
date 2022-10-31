@@ -16,8 +16,8 @@ I am very motivated in what I do and very passionate to talk about the field or 
 
 ## Other Things:
 - 🔭 I’m currently working on: Portfolio
-- 🌱 I’m currently learning: Vue.Js
-- 🤔 I’m looking for help with: Vue.Js
+- 🌱 I’m currently learning: Typescript.js
+- 🤔 I’m looking for help with: Next.js
 
 - 📫 How to reach me: sta.hollmichel@gmail.com
 - 😄 Pronouns: Fall in love with your bugs 🐛. Maybe they will leave you too 😉  
