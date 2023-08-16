@@ -1,11 +1,11 @@
-<h1>👋 Hi there, I'm Santiago, a Front-end Web Developer <h1>
+<h1>👋 Hi! I'm Santiago, a Front-end Web Developer <h1>
 
 
 
 ## About me 🤔:
 A multi-versed individual...
 I seek to tackle challenges with simplicity & efficiency, in order to go beyond the box and make the most out of the process.
-I'm a passionate for everything that has to do with web, design, coding, video and motion. Always interested in learning something new.
+I'm a passionate for everything that has to do with web, design, coding, video and motion design. Always interested in learning something new.
 I am very motivated in what I do and very passionate to talk about the field or fields I engage with.
 
 ## Things I am passionate about 🤗:
