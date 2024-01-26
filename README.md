@@ -16,7 +16,7 @@ I am very motivated in what I do and very passionate to talk about the field or 
 
 ## Other Things:
 - 🔭 I’m currently working on: Portfolio
-- 🌱 I’m currently learning: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+- 🌱 I’m currently learning: ![image]({[BadgeURLHere](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)})
 
 
 - 📫 How to reach me: sta.hollmichel@gmail.com
