@@ -16,8 +16,8 @@ I am very motivated in what I do and very passionate to talk about the field or 
 
 ## Other Things:
 - 🔭 I’m currently working on: Portfolio
-- 🌱 I’m currently learning: Typescript.js
-- 🤔 I’m looking for help with: Next.js
+- 🌱 I’m currently learning: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
 
 - 📫 How to reach me: sta.hollmichel@gmail.com
 - 😄 Pronouns: Fall in love with your bugs 🐛. Maybe they will leave you too 😉  
